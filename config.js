@@ -10,6 +10,7 @@ var config = {
         "and！",
         "福如东海！寿比南山！！！",
         "没了！！",
+        "爱你！！！！！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -22,17 +23,17 @@ var config = {
      */
     imgs: {
         "我唯一的爹": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "开始！",
+        play: "音乐起！",
+        bannar_coming: "横幅！",
+        balloons_flying: "放气球！！",
+        cake_fadein: "蛋糕！！",
+        light_candle: "点蜡烛！！",
+        wish_message: "生！日！快！乐！！（中气十足）",
+        story: "高低唱两句（咳咳）",
     }
 };
